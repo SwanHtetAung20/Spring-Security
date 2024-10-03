@@ -26,7 +26,7 @@ import java.util.function.Function;
 public class JWTImplementation implements JWTService {
 
 
-    private static final String SECRET_KEY= "Bf56xdqWO5khb1OOYPSfZCr1hHVWT2DFnVjrRg5ZB7Y=";
+    private static final String SECRET_KEY= "your-new-Base64-encoded-secret-key";
 
 
     @Override
